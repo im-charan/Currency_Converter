@@ -22,9 +22,9 @@ public class ConvertCurrency {
         frame.repaint();
     }
     private static double performConversion(String fromCurrency, String toCurrency, String year, double amount) {
-        String url = "jdbc:mysql://localhost:3306/currency_converter";
+        String url = "jdbc:mysql://localhost:3306/currency_converter";//name your database as currency_converter
         String user = "root";
-        String password = "chinnu1975";
+        String password = "*******";//password of your server
 
         int intYear = Integer.parseInt(year);
 
