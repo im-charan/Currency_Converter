@@ -12,7 +12,7 @@ public class DatabaseConnection {
             // JDBC URL, username, and password of MySQL server
             String url = "jdbc:mysql://localhost:3306/currency_converter";
             String user = "root";
-            String password = "chinnu1975";
+            String password = "******";//password of your server
 
             // Establish the connection
             connection = DriverManager.getConnection(url, user, password);
