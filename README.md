@@ -23,7 +23,8 @@ To run the Currency Conversion App locally,follow these steps:
 4. Choose the year on which you want to perform conversion.
 5. Insert the amount in the Textfield and click Convert.
 6. Now you can find the Result in the bottom left of the interface.
-<img src = "https://github.com/im-charan/Currency_Converter/assets/120516633/1f97a892-e03e-405c-9786-dd78eb2e3f34" width=50% height=50%><img src = "https://github.com/im-charan/Currency_Converter/assets/120516633/1c641d05-82d4-4970-918d-7c02021c0ae2" width=50% height=50%>
+
+<img src = "https://github.com/im-charan/Currency_Converter/assets/120516633/1f97a892-e03e-405c-9786-dd78eb2e3f34" width=40% height=40%><img src = "https://github.com/im-charan/Currency_Converter/assets/120516633/1c641d05-82d4-4970-918d-7c02021c0ae2" width=40% height=40%>
 
 
 ## Dependency
